@@ -1,0 +1,4 @@
+#Sun Jan 26 10:35:13 JST 2020
+base.0=/Users/ryotaro/repositories/flutter_app_sample/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
